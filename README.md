@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil! =D
 
-<!--
-**Little-M00n/Little-M00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Anna Fábia Andrade Ferreira de Oliveira
 
-Here are some ideas to get you started:
+- Estou estudando bo Alura 
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📧
+
+ferreira.oliveira.anna@escola.pr.gov.br
+
+@Little-M00n
+
+https://media.tenor.com/qLEl9-jSpw0AAAAC/jensen-ackles-dean-winchester.gif
